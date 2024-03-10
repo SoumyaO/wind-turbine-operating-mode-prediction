@@ -13,7 +13,7 @@ A sequence to vector prediction approach was used for this project as the output
 - A network with Conv1D layers and MaxPooling
 - A recurrent neural nework with Simple RNN layers
 - A recurrent neural network with GRU layers
-- A network with COnv1D and GRU layers
+- A network with Conv1D and GRU layers
 
 Further, the timeseries data was converted to images and 2D CNNs were applied on the images. This was done by implementing the paper "Convolutional neural network fault classification based on time series analysis for benchmark wind turbine machine", Rahimilarki R., Gao Z., Jin N., and Zhang A., Renewable Energy 2022. was implemented as part of this project.
 
